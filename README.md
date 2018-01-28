@@ -19,5 +19,3 @@ estructuradas​ con los siguientes formatos:
 ## Solucion planteada
 Aplicar el patron Strategy para resolver como  responder a alguna pregunta, en base a un patron de texto detectado por el ingreso del usuario. 
 El objetivo de este repositorio es la ejemplificacion del patron Strategy , no la solucion completa al problema explicado.
-
-.
